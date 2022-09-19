@@ -14,6 +14,4 @@ Employees are responsible for safe handling and storage of Cloud to Street-provi
 
 ### Changing roles or responsibilities
 
-TODO ask Rohan
-
-Terminated employees must have their accounts disabled within 1 business day of termination. The procedure for revoking access is documented [here](TODO).
+Terminated employees must have their accounts disabled within 1 business day of termination. Where possible, the account data should be retained. The full procedure for revoking access is documented in the Offboarding Checklist document available on Google Drive.
