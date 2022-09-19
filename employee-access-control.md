@@ -14,4 +14,4 @@ Employees are responsible for safe handling and storage of Cloud to Street-provi
 
 ### Termination
 
-Terminated employees must have their accounts disabled within 1 business day of termination. Where possible, the account data should be retained. The full procedure for revoking access is documented in the Offboarding Checklist document available on Google Drive.
+Terminated employees must have their accounts disabled within 1 business day of termination. Where possible, the account data should be retained by the company but access should be revoked from the terminated employee. The full procedure for revoking access is documented in the Offboarding Checklist document available on Google Drive.
