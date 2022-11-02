@@ -6,6 +6,12 @@ This is a public repository summarizing Cloud to Street's information security p
 2. [Business continuity plan](/business-continuity-plan.md)
 3. [Testing](/testing.md)
 4. [Employee access control](/employee-access-control.md)
+5. [Change management](/change-management.md)
+6. [Password policy](/password-policy.md)
+7. [Policy approval](/policy-approval.md)
+8. [Risk assessment](/risk-assessment.md)
+9. [Software development lifecycle](/software-development-life-cycle.md)
+10. [Vulnerability management](/vulnerability-management.md)
 
 ### Why are these policies in Git?
 
