@@ -28,3 +28,4 @@ An overview of the process is provided below for external purposes:
 6. The SEV owner is responsible for ensuring that progress is being made in mitigating the issue.
 7. After the incident has been mitigated, the SEV owner drafts a post mortem document, solicits edits and contributions from others involved in the incident, and then schedules a post mortem meeting.
 8. In the post mortem meeting, the timeline and impact of the incident are reviewed. High priority and low priority follow-up tasks are identified. The high priority follow ups must be addressed in a timely manner.
+9. When all high priority follow ups are completed, the SEV can be closed. The SEV owner does this by changing the SEV status in the SEV Slack channel.
