@@ -17,3 +17,11 @@ An incident could be detected internally by monitoring tools, by an employee in 
 ### Outage response and remediation
 
 If a suspected outage or other business continuity incident is detected, it should be responded to following the [incident response process](/incident-response.md).
+
+### Continuity testing
+
+Cloud to Street conducts continuity testing exercises twice per year. These exercises simulate business interruptions due to internal systems issues, critical third-party outages, and absence of key personnel. Cloud to Street does not induce any actual business interruption as part of the simulations.
+
+Cloud to Street keeps notes on these exercises. The notes can be provided to auditors upon request.
+
+The [IT Risk Management Committee](/risk-assessment.md) coordinates continuity testing exercises.
